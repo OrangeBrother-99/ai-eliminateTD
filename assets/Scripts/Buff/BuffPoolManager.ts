@@ -1,4 +1,4 @@
-import { _decorator, Component, NodePool, Prefab, director, Node, UITransform,instantiate, Vec3 } from 'cc';
+import { _decorator, Component, NodePool, Prefab, director, Node, instantiate, UITransform,Vec3 } from 'cc';
 import { BuffItem } from './BuffItem';
 import { BuffData } from './BuffData';
 const { ccclass, property } = _decorator;

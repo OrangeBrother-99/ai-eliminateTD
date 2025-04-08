@@ -1,3 +1,4 @@
+
 import { _decorator, Component, Node,Sprite, Label } from 'cc';
 const { ccclass, property } = _decorator;
 // Buff基础数据类型
