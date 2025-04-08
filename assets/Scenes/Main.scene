@@ -541,6 +541,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 76.6796875,
+      "width": 76.6796875,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -570,6 +571,7 @@
       "b": 255,
       "a": 255
     },
+    "_string": "总得分:0",
     "_string": "总得分:0",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
@@ -2849,6 +2851,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 21.123046875,
+      "width": 21.123046875,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -2878,6 +2881,7 @@
       "b": 255,
       "a": 255
     },
+    "_string": "0s",
     "_string": "0s",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
