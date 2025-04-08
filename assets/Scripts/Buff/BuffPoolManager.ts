@@ -11,7 +11,7 @@ export class BuffPoolManager extends Component {
 
     private _pool: NodePool = new NodePool();
     private _activeBuffs: BuffItem[] = [];
-    private readonly MAX_BUFF_COUNT = 14;
+    private readonly MAX_BUFF_COUNT = 12;
 
     private readonly startX = 25;
     private readonly startY = 25;
